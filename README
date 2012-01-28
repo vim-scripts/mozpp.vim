@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3907
+
+Mozilla uses a custom preprocessor for languages that don't have their own. This is a minimal set of syntax rules for it based on the preprocessor rules from c.vim.
+
+For more on the Mozilla preprocessor:
+https://developer.mozilla.org/en/Build/Text_Preprocessor
